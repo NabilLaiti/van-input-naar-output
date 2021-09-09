@@ -1,4 +1,5 @@
 # Nabil Laiti 99067444
+# Pizza calculator
 
 prijssmall = 5.25
 prijsmedium = 7.76
