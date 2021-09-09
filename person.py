@@ -1,0 +1,13 @@
+print(' ----------------------------------------------------')
+name = input("|  Naam      :")
+Adres = input("|  Adres     :")
+postcode = input("|  Postcode  :")
+woonplaats = input("|  Woonplaats:")
+print(' ----------------------------------------------------')
+print(f'|  Naam      : {name}')
+print(f'|  Adres     : {Adres}')
+print(f'|  Postcode  : {postcode}')
+print(f'|  Woonplaats: {woonplaats}')
+print(' ----------------------------------------------------') 
+
+antwoord = input ("Klopt al het info? (ja/nee)")
